@@ -12,7 +12,7 @@ src/
         ProductPage.js
         CartPage.js
         ContactPage.js
-        App.js
-        index.js
+    App.js
+    index.js
     styles/
         index.css
